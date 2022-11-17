@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    color: green;
+}
+button{
+    background-color: blue;
+    width: 100px;
+    border-radius: 6px;
+    
+}
+button:hover{
+    background-color: aquamarine;
+}
